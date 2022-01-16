@@ -6,7 +6,7 @@ description: >-
 
 
 baseurl: ""
-url: "https://github.com/jsoooobin/jsoooobin.github.io.git"
+url: "https://jsoooobin.github.io"
 
 # profile 이미지
 profile_image: images/about.jpg
